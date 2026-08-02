@@ -1,6 +1,7 @@
 **Project Overview**
 
 This repository showcases the visual design and presentation layout created for an educational example of business case study focused on employee satisfaction and organizational improvement.  
+
 The presentation emphasizes clarity, consistency, and audience engagement by organizing analytical findings into visually digestible sections. Through the use of editorial layouts, infographic-inspired elements, and a cohesive visual identity, complex business information is presented in an accessible and persuasive format suitable for the academic and professional presentations.
 
 **Design Specifications & Features**
