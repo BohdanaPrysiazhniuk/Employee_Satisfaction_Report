@@ -19,7 +19,7 @@ Canva: Used to design presentation layouts, establish typography hierarchy, crea
 
 **Design Assets**
 
-_Educational/Business Presentation_
+_Business Presentation_
 
 A professional presentation analyzing employee satisfaction within a family-owned chocolate company. The project combines company background, employee survey results, data visualization, and strategic recommendations into a visually consistent presentation that demonstrates effective business communication through design.
 
